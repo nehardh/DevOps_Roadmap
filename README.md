@@ -14,12 +14,14 @@
 
 
 ## 📋 Table of Contents
-- [About](#about)
-- [Learning Path](#learning-path)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+- [About](#-about)
+- [Learning Path](#-learning-path)
+- [Projects](#phase-5-%EF%B8%8F-projects)
+- [Learning Resources](#-learning-resources)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
+- [Contact](#-contact)
 
 ## 🎯 About
 This repository contains a structured learning path for beginners entering the DevOps and Cloud Engineering field. The curriculum is designed for students, recent graduates, and career switchers, with an estimated completion time of 6-12 months of dedicated learning.
