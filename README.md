@@ -98,7 +98,7 @@ Choose your cloud provider:
 
 | Cloud provider | Certification type | Certification | Tutorials |
 |----------------|-------------------|---------------|-----------|
-| AWS | Foundation<br>Associate | • AWS Certified Cloud Practitioner<br>• AWS Solutions Architect Associate | |
+| AWS | Foundation<br>Associate | • AWS Certified Cloud Practitioner<br>• AWS Solutions Architect Associate | [Playlist](https://youtube.com/playlist?list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_&si=OJKh9WKirZXhCx_k)|
 | Azure | Foundation<br>Associate | • AZ-900 Azure Fundamentals<br>• AZ-104 Azure Administrator | [Playlist](https://www.youtube.com/playlist?list=PLl4APkPHzsUUOCWcjaXcH-WBVxCccZ4uO)|
 | GCP | Foundation<br>Associate | • Google Cloud Digital Leader<br>• Associate Cloud Engineer | [Playlist](https://www.youtube.com/playlist?list=PLl4APkPHzsUXvkDFARdrH2LMESVqeuH8W) |
 
